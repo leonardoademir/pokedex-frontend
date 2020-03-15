@@ -1,0 +1,51 @@
+.capture-list {
+  max-width: 700px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+}
+
+.capture-list article {
+  text-align: center;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.product-list article p {
+  font-size: 16px;
+  color: #999;
+  margin-top: 5px;
+  line-height: 24px;
+}
+
+.capture-list .actions {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.capture-list .actions button {
+  padding: 10px;
+   border-radius: 5px;
+   border: 0;
+   background: #da552f;
+   color: #fff;
+   font-size: 16px;
+   font-weight: bold;
+   cursor: pointer;
+}
+
+.capture-list .actions button:hover{
+  opacity: 0.7;
+}
+
+.capture-list .actions button[disabled]{
+  opacity: 0.5;
+  cursor: default;
+}
+
+.capture-list .actions button[disabled]:hover{
+  opacity: 0.5;
+}
