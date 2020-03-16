@@ -9,10 +9,6 @@ Esta é uma aplicação front-end para um desafio de admissão de vaga. Consiste
 Quando o usuário seleciona um pokemon, é gerado as habilidades respectivas daquele pokémon, elas são geradas aleatoriamente com base na captura.
 
 ### :hammer: **Ferramentas utilizadas**
-- <a target="_blank" href="https://www.npmjs.com/package/express" alt="Express">Express</a>
-- <a target="_blank" href="https://www.npmjs.com/package/sucrase" alt="Sucrase">Sucrase</a>
-- <a target="_blank" href="https://www.npmjs.com/package/nodemon" alt="Nodemon">Nodemon</a>
-- <a target="_blank" href="https://www.npmjs.com/package/eslint" alt="ESLint">ESLint</a>
 - <a target="_blank" href="https://www.npmjs.com/package/dotenv" alt="dotenv">Dotenv</a>
 - <a target="_blank" href="https://www.npmjs.com/package/React" alt="React">React</a>
 - <a target="_blank" href="https://www.npmjs.com/package/bootstrap" alt="Bootstrap">Bootstrap</a>
