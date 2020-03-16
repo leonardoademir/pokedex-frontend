@@ -21,12 +21,8 @@ Quando o usuário seleciona um pokemon, é gerado as habilidades respectivas daq
 - <a target="_blank" href="https://www.npmjs.com/package/shuffle-array" alt="React">Shuffle-Array</a>
 - <a target="_blank" href="https://www.npmjs.com/package/React" alt="React">React</a>
 
-### :camera: **Registro de funcionamento**
+### :camera: **Acessando a aplicação**
 
 <h1 align="center">
   O sistema pode ser acessado em: https://leonardoademir.github.io/pokedex-frontend/
-</h1>
-
-<h1 align="center">
-  <img alt="Insomnia" title="Insomnia" src="https://drive.google.com/open?id=1y5v1kffEF4esk0x8qLwynVyt5rra3u9C" />
 </h1>
